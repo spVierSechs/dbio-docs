@@ -1,3 +1,3 @@
 # discord.bio API documentation  
   
-Please see https://dbio.geist.ga/about for more information.
+Please see https://dbio.geist.ga/about.html for more information.
