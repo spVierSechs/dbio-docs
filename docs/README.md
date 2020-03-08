@@ -6,7 +6,7 @@
 <PointOfInterest anchor="basicNotes"/>
 ::: tip  
 All paths return JSON with a `success` key (a boolean) to determine if the operation failed or succeeded.  
-If it succeeded, the `payload` key contains the requested config.  
+If it succeeded, the `payload` key contains the requested data.  
 All successful responses in this documentation are assumed to be inside `payload`.
 :::
 
