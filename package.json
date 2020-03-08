@@ -1,0 +1,28 @@
+{
+  "name": "dbio-docs",
+  "version": "0.0.1",
+  "description": "Unofficial Discord.Bio Documentation",
+  "main": "-",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "keywords": [
+    "discord",
+    "bio",
+    "docs",
+    "vuepress"
+  ],
+  "author": "Infi <dbio-docs@geist.ga> (https://geist.ga)",
+  "license": "BSL-1.0",
+  "devDependencies": {
+    "vuepress": "^1.3.1"
+  },
+  "dependencies": {
+    "vuepress-theme-yuu": "^2.2.1"
+  }
+}
