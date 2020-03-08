@@ -62,7 +62,7 @@ No data was found for this user.
 ## Non-Discord connections
 <Route path="/userConnections/:slugOrId" method="get"/>
 
-Fetch user details (but not connections).
+Fetch connections on the website (but not what Discord provides).
 ::: details Path Parameters
 |Parameter|Explanation|
 |-|-|
@@ -87,7 +87,7 @@ This means that the user does not exist. Note that `success` is still true and a
 ::: tip 
 Users can avoid displaying their connections here by hiding them in their user settings. 
 :::
-Fetch user details (but not connections).
+Fetch connections from Discord (but not discord.bio).
 ::: details Path Parameters
 |Parameter|Explanation|
 |-|-|
